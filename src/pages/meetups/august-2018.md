@@ -19,6 +19,15 @@ presenters:
       Ben will tell us all about the power of functional programming,
       specifically memoization and how it can help speed up frequently used side
       effect-less functions.
+  - image: /img/img_20190508_134239.jpg
+    links:
+      - linkText: Link to next page
+        linkURL: '#'
+    name: Daniel Gibson
+    presentationTitle: What's a React?
+    text: >-
+      Template site for Netlify CMS, adding text content on the fly. What could
+      go wrong?
 location:
   mapsLatitude: 64.843779
   mapsLink: 'https://goo.gl/maps/LLgicn3zGuy'
